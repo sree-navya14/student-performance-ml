@@ -28,7 +28,7 @@ The goal of this project is to predict whether a student will pass or fail based
 - **pandas**
 - **NumPy**
 - **scikit-learn**
-- **Jupyter Notebook**
+- **Google Colab**
 
 ---
 
@@ -72,7 +72,5 @@ You may either:
     ```bash
     pip install -r requirements.txt
 
-3. Open the Jupyter Notebook:
-    ```bash
-    jupyter notebook
+3. Open the project in **Google Colab** and run the cells sequentially.
 
